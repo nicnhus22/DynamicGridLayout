@@ -38,7 +38,7 @@ When you have your row setup, you just have to add an unordered list inside the 
 
 This will create a 2x3 map since the largest row has 3 cells.
 
-<h3>Site Map<h3><br/>
+<h3>Site Map<h3>
 
 The site map is generated when the page is loading depending on the number of rows and cells. It shows a real time position of the user on the page.
 
